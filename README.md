@@ -64,7 +64,7 @@ endmodule
 ```
 ### Output :
 
-### LOGICAL SYMBOL
+### LOGIC SYMBOL
 
 Half Adder :
 
